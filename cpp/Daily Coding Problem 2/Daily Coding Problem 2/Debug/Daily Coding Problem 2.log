@@ -1,0 +1,9 @@
+﻿  Daily Coding Problem 2.cpp
+d:\c++\daily coding problem 2\daily coding problem 2\daily coding problem 2.cpp(25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\daily coding problem 2\daily coding problem 2\daily coding problem 2.cpp(27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\daily coding problem 2\daily coding problem 2\daily coding problem 2.cpp(28): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\daily coding problem 2\daily coding problem 2\daily coding problem 2.cpp(29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\daily coding problem 2\daily coding problem 2\daily coding problem 2.cpp(30): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\daily coding problem 2\daily coding problem 2\daily coding problem 2.cpp(35): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\daily coding problem 2\daily coding problem 2\daily coding problem 2.cpp(41): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Daily Coding Problem 2.vcxproj -> D:\c++\Daily Coding Problem 2\Debug\Daily Coding Problem 2.exe

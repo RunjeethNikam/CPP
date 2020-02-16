@@ -1,0 +1,4 @@
+﻿  HackerRank in a String!.cpp
+d:\c++\hackerrank in a string!\hackerrank in a string!\hackerrank in a string!.cpp(28): warning C4018: '<': signed/unsigned mismatch
+d:\c++\hackerrank in a string!\hackerrank in a string!\hackerrank in a string!.cpp(29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  HackerRank in a String!.vcxproj -> D:\c++\HackerRank in a String!\Debug\HackerRank in a String!.exe

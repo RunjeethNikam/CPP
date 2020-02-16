@@ -1,0 +1,4 @@
+﻿  squre_root.cpp
+c:\users\runjeeth\documents\c++\squre_root\squre_root\squre_root.cpp(6): warning C4305: 'initializing': truncation from '__int64' to 'int'
+c:\users\runjeeth\documents\c++\squre_root\squre_root\squre_root.cpp(6): warning C4309: 'initializing': truncation of constant value
+  squre_root.vcxproj -> C:\Users\Runjeeth\Documents\c++\squre_root\Debug\squre_root.exe

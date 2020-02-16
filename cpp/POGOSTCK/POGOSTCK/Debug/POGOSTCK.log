@@ -1,0 +1,4 @@
+﻿  POGOSTCK.cpp
+d:\c++\pogostck\pogostck\pogostck.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++\pogostck\pogostck\pogostck.cpp(59): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  POGOSTCK.vcxproj -> D:\c++\POGOSTCK\Debug\POGOSTCK.exe

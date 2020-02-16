@@ -1,0 +1,4 @@
+﻿  xor.cpp
+d:\c++\xor\xor\xor.cpp(18): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+d:\c++\xor\xor\xor.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  xor.vcxproj -> D:\c++\xor\Debug\xor.exe

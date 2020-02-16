@@ -1,0 +1,5 @@
+﻿  Daily Coding Problem 3.cpp
+d:\c++\daily coding problem 3\daily coding problem 3\daily coding problem 3.cpp(38): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  d:\c++\daily coding problem 3\daily coding problem 3\daily coding problem 3.cpp(38): note: consider using '%lld' in the format string
+  d:\c++\daily coding problem 3\daily coding problem 3\daily coding problem 3.cpp(38): note: consider using '%I64d' in the format string
+  Daily Coding Problem 3.vcxproj -> D:\c++\Daily Coding Problem 3\Debug\Daily Coding Problem 3.exe

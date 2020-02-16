@@ -1,0 +1,4 @@
+﻿  Anagram.cpp
+d:\c++\anagram\anagram\anagram.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\c++\anagram\anagram\anagram.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Anagram.vcxproj -> D:\c++\Anagram\Debug\Anagram.exe

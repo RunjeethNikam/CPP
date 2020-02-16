@@ -1,0 +1,4 @@
+﻿  power function.cpp
+c:\users\runjeeth\documents\c++\power function\power function\power function.cpp(12): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\runjeeth\documents\c++\power function\power function\power function.cpp(14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  power function.vcxproj -> C:\Users\Runjeeth\Documents\c++\power function\Debug\power function.exe

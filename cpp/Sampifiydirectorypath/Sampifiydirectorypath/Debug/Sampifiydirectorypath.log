@@ -1,0 +1,9 @@
+﻿  Sampifiydirectorypath.cpp
+c:\users\runjeeth\documents\c++\sampifiydirectorypath\sampifiydirectorypath\sampifiydirectorypath.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\sampifiydirectorypath\sampifiydirectorypath\sampifiydirectorypath.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\sampifiydirectorypath\sampifiydirectorypath\sampifiydirectorypath.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\sampifiydirectorypath\sampifiydirectorypath\sampifiydirectorypath.cpp(47): error C2676: binary '[': 'std::stack<std::string,std::deque<_Ty,std::allocator<_Ty>>>' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              _Ty=std::string
+          ]

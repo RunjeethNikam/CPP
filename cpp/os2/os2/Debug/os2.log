@@ -1,0 +1,7 @@
+﻿  os2.c
+d:\c++\os2\os2\os2.c(36): warning C4047: '=': 'Process **' differs in levels of indirection from 'Process *'
+d:\c++\os2\os2\os2.c(131): warning C4090: 'function': different 'const' qualifiers
+d:\c++\os2\os2\os2.c(131): warning C4028: formal parameter 1 different from declaration
+d:\c++\os2\os2\os2.c(131): warning C4028: formal parameter 2 different from declaration
+d:\c++\os2\os2\os2.c(184): warning C4013: '_getch' undefined; assuming extern returning int
+  os2.vcxproj -> D:\c++\os2\Debug\os2.exe

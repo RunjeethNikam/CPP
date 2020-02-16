@@ -1,0 +1,3 @@
+﻿  Pangrams.cpp
+d:\c++\pangrams\pangrams\pangrams.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  Pangrams.vcxproj -> D:\c++\Pangrams\Debug\Pangrams.exe

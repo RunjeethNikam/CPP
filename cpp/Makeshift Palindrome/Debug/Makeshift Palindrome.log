@@ -1,0 +1,3 @@
+﻿  Makeshift Palindrome.cpp
+D:\c++\Makeshift Palindrome\Makeshift Palindrome.cpp(13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Makeshift Palindrome.vcxproj -> D:\c++\Makeshift Palindrome\Debug\Makeshift Palindrome.exe

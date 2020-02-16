@@ -1,0 +1,10 @@
+﻿  osStimulation.c
+d:\c++\osstimulation\osstimulation\osstimulation.c(53): warning C4047: 'initializing': 'Process *' differs in levels of indirection from 'Process **'
+d:\c++\osstimulation\osstimulation\osstimulation.c(130): warning C4090: 'function': different 'const' qualifiers
+d:\c++\osstimulation\osstimulation\osstimulation.c(130): warning C4028: formal parameter 1 different from declaration
+d:\c++\osstimulation\osstimulation\osstimulation.c(130): warning C4028: formal parameter 2 different from declaration
+d:\c++\osstimulation\osstimulation\osstimulation.c(140): warning C4047: 'function': 'Process **' differs in levels of indirection from 'Process *'
+d:\c++\osstimulation\osstimulation\osstimulation.c(140): warning C4024: 'Add_Process': different types for formal and actual parameter 2
+d:\c++\osstimulation\osstimulation\osstimulation.c(149): warning C4047: 'function': 'Process **' differs in levels of indirection from 'Process *'
+d:\c++\osstimulation\osstimulation\osstimulation.c(149): warning C4024: 'Add_Process': different types for formal and actual parameter 2
+  osStimulation.vcxproj -> D:\c++\osStimulation\Debug\osStimulation.exe

@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  check if the number is fibo number_.cpp
+d:\c++\check if the number is fibo number_\check if the number is fibo number_\check if the number is fibo number_.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++\check if the number is fibo number_\check if the number is fibo number_\check if the number is fibo number_.cpp(35): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  check if the number is fibo number_.vcxproj -> D:\c++\check if the number is fibo number_\Debug\check if the number is fibo number_.exe

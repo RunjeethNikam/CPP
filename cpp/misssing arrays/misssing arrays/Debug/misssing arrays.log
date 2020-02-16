@@ -1,0 +1,5 @@
+﻿  misssing arrays.cpp
+d:\c++\misssing arrays\misssing arrays\misssing arrays.cpp(13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\misssing arrays\misssing arrays\misssing arrays.cpp(24): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\misssing arrays\misssing arrays\misssing arrays.cpp(25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  misssing arrays.vcxproj -> D:\c++\misssing arrays\Debug\misssing arrays.exe

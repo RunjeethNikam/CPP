@@ -1,0 +1,12 @@
+﻿  osStimulation2.c
+d:\c++\clanguage\clanguage\osstimulation2.c(33): warning C4013: 'Add_Process' undefined; assuming extern returning int
+d:\c++\clanguage\clanguage\osstimulation2.c(41): error C2371: 'Add_Process': redefinition; different basic types
+d:\c++\clanguage\clanguage\osstimulation2.c(44): warning C4047: 'initializing': 'Process *' differs in levels of indirection from 'Process **'
+d:\c++\clanguage\clanguage\osstimulation2.c(123): warning C4090: 'function': different 'const' qualifiers
+d:\c++\clanguage\clanguage\osstimulation2.c(123): warning C4028: formal parameter 1 different from declaration
+d:\c++\clanguage\clanguage\osstimulation2.c(123): warning C4028: formal parameter 2 different from declaration
+d:\c++\clanguage\clanguage\osstimulation2.c(133): warning C4047: 'function': 'Process **' differs in levels of indirection from 'Process *'
+d:\c++\clanguage\clanguage\osstimulation2.c(133): warning C4024: 'Delete_Process': different types for formal and actual parameter 1
+d:\c++\clanguage\clanguage\osstimulation2.c(137): warning C4047: 'function': 'Process **' differs in levels of indirection from 'Process *'
+d:\c++\clanguage\clanguage\osstimulation2.c(137): warning C4024: 'Delete_Process': different types for formal and actual parameter 1
+d:\c++\clanguage\clanguage\osstimulation2.c(141): warning C4013: '_getch' undefined; assuming extern returning int

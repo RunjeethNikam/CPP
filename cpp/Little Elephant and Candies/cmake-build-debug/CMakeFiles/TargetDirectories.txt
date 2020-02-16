@@ -1,0 +1,3 @@
+D:/c++/Little Elephant and Candies/cmake-build-debug/CMakeFiles/Little_Elephant_and_Candies.dir
+D:/c++/Little Elephant and Candies/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++/Little Elephant and Candies/cmake-build-debug/CMakeFiles/rebuild_cache.dir

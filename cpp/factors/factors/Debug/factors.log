@@ -1,0 +1,3 @@
+﻿  factors.cpp
+c:\users\runjeeth\documents\c++\factors\factors\factors.cpp(13): warning C4018: '>=': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open C:\Users\Runjeeth\Documents\c++\factors\Debug\factors.exe for writing

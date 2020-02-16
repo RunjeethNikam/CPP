@@ -1,0 +1,3 @@
+﻿  Game of Powers.cpp
+D:\c++\Game of Powers\Game of Powers.cpp(30): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Game of Powers.vcxproj -> D:\c++\Game of Powers\Debug\Game of Powers.exe

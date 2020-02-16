@@ -1,0 +1,1 @@
+print(format("Hello", "<30"))

@@ -1,0 +1,5 @@
+﻿  Funny String.cpp
+d:\c++\funny string\funny string\funny string.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\c++\funny string\funny string\funny string.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\c++\funny string\funny string\funny string.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  Funny String.vcxproj -> D:\c++\Funny String\Debug\Funny String.exe

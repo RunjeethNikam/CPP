@@ -1,0 +1,4 @@
+﻿  Beautiful Binary String.cpp
+d:\c++\beautiful binary string\beautiful binary string\beautiful binary string.cpp(27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+d:\c++\beautiful binary string\beautiful binary string\beautiful binary string.cpp(28): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Beautiful Binary String.vcxproj -> D:\c++\Beautiful Binary String\Debug\Beautiful Binary String.exe

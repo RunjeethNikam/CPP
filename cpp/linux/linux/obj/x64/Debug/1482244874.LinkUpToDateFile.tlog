@@ -1,0 +1,1 @@
+g++ -o "/home/runjeeth/projects/linux/bin/x64/Debug/linux.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/runjeeth/projects/linux/obj/x64/Debug/main.o

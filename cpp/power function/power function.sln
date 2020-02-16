@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "power function", "power function\power function.vcxproj", "{5164FDFB-4719-4BF0-9052-3DB8326212B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5164FDFB-4719-4BF0-9052-3DB8326212B7}.Debug|x64.ActiveCfg = Debug|x64
+		{5164FDFB-4719-4BF0-9052-3DB8326212B7}.Debug|x64.Build.0 = Debug|x64
+		{5164FDFB-4719-4BF0-9052-3DB8326212B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{5164FDFB-4719-4BF0-9052-3DB8326212B7}.Debug|x86.Build.0 = Debug|Win32
+		{5164FDFB-4719-4BF0-9052-3DB8326212B7}.Release|x64.ActiveCfg = Release|x64
+		{5164FDFB-4719-4BF0-9052-3DB8326212B7}.Release|x64.Build.0 = Release|x64
+		{5164FDFB-4719-4BF0-9052-3DB8326212B7}.Release|x86.ActiveCfg = Release|Win32
+		{5164FDFB-4719-4BF0-9052-3DB8326212B7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BADF4664-4A5D-4321-9CE0-2A27F0B98E4D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  Campus Drive.cpp
+D:\c++\Campus Drive\Campus Drive.cpp(143): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+  Campus Drive.vcxproj -> D:\c++\Campus Drive\Debug\Campus Drive.exe

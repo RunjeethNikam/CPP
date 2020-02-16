@@ -1,0 +1,5 @@
+﻿  Anti Diagonals.cpp
+c:\users\runjeeth\documents\c++\anti diagonals\anti diagonals\anti diagonals.cpp(12): warning C4018: '<=': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\anti diagonals\anti diagonals\anti diagonals.cpp(16): warning C4018: '<=': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\anti diagonals\anti diagonals\anti diagonals.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  Anti Diagonals.vcxproj -> C:\Users\Runjeeth\Documents\c++\Anti Diagonals\Debug\Anti Diagonals.exe

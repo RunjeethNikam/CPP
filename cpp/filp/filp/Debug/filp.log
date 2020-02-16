@@ -1,0 +1,6 @@
+﻿  filp.cpp
+c:\users\runjeeth\documents\c++\filp\filp\filp.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\filp\filp\filp.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\filp\filp\filp.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\filp\filp\filp.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  filp.vcxproj -> C:\Users\Runjeeth\Documents\c++\filp\Debug\filp.exe

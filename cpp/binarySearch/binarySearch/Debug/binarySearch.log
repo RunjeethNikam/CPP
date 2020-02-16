@@ -1,0 +1,3 @@
+﻿  binarySearch.cpp
+c:\users\runjeeth\documents\c++\binarysearch\binarysearch\binarysearch.cpp(23): warning C4715: 'binarySearch': not all control paths return a value
+  binarySearch.vcxproj -> C:\Users\Runjeeth\Documents\c++\binarySearch\Debug\binarySearch.exe

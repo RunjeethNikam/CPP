@@ -1,0 +1,10 @@
+﻿  just awsome.cpp
+D:\c++\just awsome\just awsome.cpp(29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\c++\just awsome\just awsome.cpp(30): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\c++\just awsome\just awsome.cpp(31): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\c++\just awsome\just awsome.cpp(31): error C2665: 'std::stoi': none of the 2 overloads could convert all the argument types
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\string(267): note: could be 'int std::stoi(const std::wstring &,size_t *,int)'
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\string(85): note: or       'int std::stoi(const std::string &,size_t *,int)'
+  D:\c++\just awsome\just awsome.cpp(31): note: while trying to match the argument list '(char)'
+D:\c++\just awsome\just awsome.cpp(35): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\c++\just awsome\just awsome.cpp(39): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data

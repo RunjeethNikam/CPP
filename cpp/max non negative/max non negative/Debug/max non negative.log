@@ -1,0 +1,8 @@
+﻿  max non negative.cpp
+c:\users\runjeeth\documents\c++\max non negative\max non negative\max non negative.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\runjeeth\documents\c++\max non negative\max non negative\max non negative.cpp(12): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  max non negative.vcxproj -> C:\Users\Runjeeth\Documents\c++\max non negative\Debug\max non negative.exe

@@ -1,0 +1,3 @@
+﻿  Subtree Removal.cpp
+d:\c++\subtree removal\subtree removal\subtree removal.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Subtree Removal.vcxproj -> D:\c++\Subtree Removal\Debug\Subtree Removal.exe
